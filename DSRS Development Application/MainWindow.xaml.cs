@@ -128,7 +128,7 @@ namespace DSRS_Development_Application
             NProject.Visibility = Visibility.Collapsed;
             JProject.Visibility = Visibility.Collapsed;
             HProject.Visibility = Visibility.Collapsed;
-            IDE.Text = "";
+            IDE.Text = "<!DOCTYPE html>\n" + "<html>\n" + " <head>\n" + "  <title>\n" + "   HTML\n" + "  </title>\n" + " </head>\n" + "  <body>\n" + "  </body>\n" + "<html>\n";
             BUILDH.Visibility = Visibility.Visible;
             BUILDHF.Visibility = Visibility.Visible;
             READONLY.Visibility = Visibility.Visible;
