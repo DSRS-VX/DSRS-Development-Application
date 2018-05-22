@@ -4,3 +4,5 @@
 *.ide
 .vs/DSRS Development Application/v15/.suo
 *.lock
+*.exe
+*.pdb
