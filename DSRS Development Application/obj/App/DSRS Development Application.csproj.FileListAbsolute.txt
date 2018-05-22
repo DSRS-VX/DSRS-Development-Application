@@ -1,0 +1,15 @@
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Release\DSRS Development Application.exe.config
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Release\DSRS Development Application.exe
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Release\DSRS Development Application.pdb
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application.csprojResolveAssemblyReference.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\MainWindow.g.cs
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\App.g.cs
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application_MarkupCompile.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application_MarkupCompile.lref
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\MainWindow.baml
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application.g.resources
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS_Development_Application.Properties.Resources.resources
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application.csproj.GenerateResource.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application.csproj.CoreCompileInputs.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application.exe
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\App\DSRS Development Application.pdb

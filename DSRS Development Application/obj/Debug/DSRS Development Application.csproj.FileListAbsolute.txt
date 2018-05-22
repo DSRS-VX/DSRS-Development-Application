@@ -1,0 +1,15 @@
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Debug\DSRS Development Application.exe.config
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Debug\DSRS Development Application.exe
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Debug\DSRS Development Application.pdb
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application.csprojResolveAssemblyReference.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\MainWindow.g.cs
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\App.g.cs
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application_MarkupCompile.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application_MarkupCompile.lref
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\MainWindow.baml
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application.g.resources
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS_Development_Application.Properties.Resources.resources
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application.csproj.GenerateResource.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application.csproj.CoreCompileInputs.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application.exe
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Debug\DSRS Development Application.pdb

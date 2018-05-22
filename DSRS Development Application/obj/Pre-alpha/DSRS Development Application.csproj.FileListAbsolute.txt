@@ -1,0 +1,13 @@
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Pre-alpha\DSRS Development Application.exe.config
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\bin\Pre-alpha\DSRS Development Application.exe
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application.csprojResolveAssemblyReference.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\MainWindow.g.cs
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\App.g.cs
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application_MarkupCompile.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application_MarkupCompile.lref
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\MainWindow.baml
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application.g.resources
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS_Development_Application.Properties.Resources.resources
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application.csproj.GenerateResource.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application.csproj.CoreCompileInputs.cache
+C:\Users\PheonixVX\source\repos\DSRS Development Application\DSRS Development Application\obj\Pre-alpha\DSRS Development Application.exe

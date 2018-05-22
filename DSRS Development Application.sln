@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSRS Development Application", "DSRS Development Application\DSRS Development Application.csproj", "{A9F2CD2F-015A-4642-BEBA-7009431879BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		App|Any CPU = App|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Pre-alpha|Any CPU = Pre-alpha|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.App|Any CPU.ActiveCfg = App|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.App|Any CPU.Build.0 = App|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.Debug|Any CPU.ActiveCfg = App|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.Debug|Any CPU.Build.0 = App|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.Pre-alpha|Any CPU.ActiveCfg = Pre-alpha|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.Pre-alpha|Any CPU.Build.0 = Pre-alpha|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.Release|Any CPU.ActiveCfg = App|Any CPU
+		{A9F2CD2F-015A-4642-BEBA-7009431879BD}.Release|Any CPU.Build.0 = App|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83083F34-11F3-4908-9D61-95FB80A97F12}
+	EndGlobalSection
+EndGlobal
