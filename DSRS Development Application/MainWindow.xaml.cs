@@ -37,6 +37,7 @@ namespace DSRS_Development_Application
         {
             PProject.Visibility = Visibility.Visible;
             JProject.Visibility = Visibility.Visible;
+            HProject.Visibility = Visibility.Visible;
         }
         private void Python_Click(object sender, RoutedEventArgs e)
         {
@@ -118,6 +119,46 @@ namespace DSRS_Development_Application
             startInfo.FileName = "java.exe";
             startInfo.Arguments = "JFile";
             Process.Start(startInfo.FileName, startInfo.Arguments);
+        }
+        private void HTML_Click(object sender, RoutedEventArgs e)
+        {
+            PProject.Visibility = Visibility.Collapsed;
+            NProject.Visibility = Visibility.Collapsed;
+            JProject.Visibility = Visibility.Collapsed;
+            HProject.Visibility = Visibility.Collapsed;
+            IDE.Text = "";
+            BUILDH.Visibility = Visibility.Visible;
+            BUILDHF.Visibility = Visibility.Visible;
+            READONLY.Visibility = Visibility.Visible;
+            SAVEH.Visibility = Visibility.Visible;
+            string path = Environment.CurrentDirectory + "/" + "Index.html";
+            if (!System.IO.File.Exists(path))
+            {
+                System.IO.File.CreateText(path);
+                MessageBox.Show("HTML Project Created Successfully, Projects can be found in the working directory under Projects");
+            }
+        }
+        private void BH_Click(object sender, RoutedEventArgs e)
+        {
+            ProcessStartInfo startInfo = new ProcessStartInfo();
+            startInfo.FileName = "chrome";
+            startInfo.Arguments = "Index.html";
+            Process.Start(startInfo.FileName, startInfo.Arguments);
+        }
+        private void BHF_Click(object sender, RoutedEventArgs e)
+        {
+            ProcessStartInfo startInfo = new ProcessStartInfo();
+            startInfo.FileName = "firefox";
+            startInfo.Arguments = "Index.html";
+            Process.Start(startInfo.FileName, startInfo.Arguments);
+        }
+        private void SAVEH_Click(object sender, RoutedEventArgs e)
+        {
+            string path = Environment.CurrentDirectory + "/" + "Index.html";
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                sw.WriteLine(IDE.Text);
+            }
         }
     }
 }

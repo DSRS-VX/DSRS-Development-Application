@@ -14,11 +14,15 @@
                     <Button x:Name="BUILD" Margin="1000,-700,150,675" RenderTransformOrigin="0.524,-1.65" Content="Build" Click="BA_Click" Visibility="Collapsed"/>
                     <Button x:Name="BUILDJ" Margin="1000,-700,150,675" RenderTransformOrigin="0.524,-1.65" Content="Compile" Click="BJ_Click" Visibility="Collapsed"/>
                     <Button x:Name="BUILDJR" Margin="500,-700,550,675" RenderTransformOrigin="0.524,-1.65" Content="Run Program, Must use after compile" Click="JR_Click" Visibility="Collapsed"/>
+                    <Button x:Name="BUILDH" Margin="900,-700,150,675" RenderTransformOrigin="0.524,-1.65" Content="Chrome - Run Index" Click="BH_Click" Visibility="Collapsed"/>
+                    <Button x:Name="BUILDHF" Margin="300,-700,650,675" RenderTransformOrigin="0.524,-1.65" Content="Firefox - Run Index" Click="BHF_Click" Visibility="Collapsed"/>
                     <Button x:Name="SAVE" Margin="800,-700,350,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVE_Click" Visibility="Collapsed"/>
                     <Button x:Name="SAVEJ" Margin="800,-700,350,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVEJ_Click" Visibility="Collapsed"/>
+                    <Button x:Name="SAVEH" Margin="700,-700,450,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVEH_Click" Visibility="Collapsed"/>
                     <Button x:Name="NProject" Margin="0,-675,1270,675" RenderTransformOrigin="0.524,-1.65" Content="New Project" Click="NProject_Click" Visibility="Collapsed"/>
                     <Button x:Name="PProject" Margin="80,-675,1175,675" RenderTransformOrigin="0.524,-1.65" Content="Python Project" Click="Python_Click" Visibility="Collapsed"/>
                     <Button x:Name="JProject" Margin="80,-674,1175,675" RenderTransformOrigin="0.524,-1.65" Content="Java Project" Click="Java_Click" Visibility="Collapsed"/>
+                    <Button x:Name="HProject" Margin="80,-673,1175,675" RenderTransformOrigin="0.524,-1.65" Content="HTML Project" Click="HTML_Click" Visibility="Collapsed"/>
                     <Button x:Name="READONLY" Margin="1200,-700,0,675" RenderTransformOrigin="0.524,-1.65" Content="Readonly OFF/ON" Click="RD_Click" Visibility="Collapsed"/>
                     <TextBox x:Name="IDE" Height="700" Margin="90,-675,0,0" Background="#FF151515" Foreground="Red" IsReadOnly="True" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Visible" SpellCheck.IsEnabled="True" AcceptsReturn="True">
                         READONLY FIELD, PLEASE CREATE PROJECT AND CLICK THE READONLY OFF/ON BUTTON TO EDIT CODE                    
