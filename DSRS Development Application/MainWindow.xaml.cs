@@ -44,6 +44,7 @@ namespace DSRS_Development_Application
             PProject.Visibility = Visibility.Collapsed;
             NProject.Visibility = Visibility.Collapsed;
             JProject.Visibility = Visibility.Collapsed;
+            HProject.Visibility = Visibility.Collapsed;
             IDE.Text = "print 'Hello World!'\n\n" + "print 'Press Enter to Exit'\n" + "#KEEP PYTHON OPEN\n" + "raw_input()";
             BUILD.Visibility = Visibility.Visible;
             READONLY.Visibility = Visibility.Visible;
@@ -86,6 +87,7 @@ namespace DSRS_Development_Application
             PProject.Visibility = Visibility.Collapsed;
             NProject.Visibility = Visibility.Collapsed;
             JProject.Visibility = Visibility.Collapsed;
+            HProject.Visibility = Visibility.Collapsed;
             IDE.Text = "/* JAVA FILE */\n\n" + "public class JFile\n" + "{\n" + " public static void main(String[] args) {\n" + "/* IN WPF YOU CAN NOT HAVE DOUBLE QUOTES INSIDE DOUBLE QUOTES SO YOU WILL MANUALLY HAVE TO EDIT THE HELLO WORLD CODE SO CHANGE THE SINGLE QUOTES TO DOUBLE QUOTES BEFORE AND AFTER TO FIX THE PROJECT */\n" + "  System.out.println('Hello World!');\n" + " }\n" + "}";
             BUILDJ.Visibility = Visibility.Visible;
             BUILDJR.Visibility = Visibility.Visible;
