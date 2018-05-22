@@ -43,7 +43,7 @@
                         DSRS Development Application
                     </Label>
                     <Label Foreground="Red" Margin="250,150,0,0">DSRS Development Application or (DDA) is a free to use IDE built completely in Visual Studio and Blend, as such it is open source and can be changed to your likings.</Label>
-                    <Label Foreground="Red" Margin="275,0,0,0" Content="So far, the ide Supports Python and Java but you can help us to build a few other languages if you contribute." Height="202.96"/>
+                    <Label Foreground="Red" Margin="275,0,0,0" Content="So far, the ide Supports Python, Java and HTML but you can help us to build a few other languages if you contribute." Height="202.96"/>
                 </StackPanel>
             </TabItem>
         </TabControl>
