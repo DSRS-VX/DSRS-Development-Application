@@ -53,7 +53,7 @@ namespace DSRS_Development_Application
             if (!System.IO.File.Exists(path))
             {
                 System.IO.File.CreateText(path);
-                MessageBox.Show("Python Project Created Successfully, Projects can be found in the working directory under Projects");
+                MessageBox.Show("Python Project Created Successfully, Projects can be found in the working directory");
             }
         }
         private void RD_Click(object sender, RoutedEventArgs e)
@@ -97,7 +97,7 @@ namespace DSRS_Development_Application
             if (!System.IO.File.Exists(path))
             {
                 System.IO.File.CreateText(path);
-                MessageBox.Show("Java Project Created Successfully, Projects can be found in the working directory under Projects");
+                MessageBox.Show("Java Project Created Successfully, Projects can be found in the working directory ");
             }
         }
         private void BJ_Click(object sender, RoutedEventArgs e)
@@ -137,7 +137,7 @@ namespace DSRS_Development_Application
             if (!System.IO.File.Exists(path))
             {
                 System.IO.File.CreateText(path);
-                MessageBox.Show("HTML Project Created Successfully, Projects can be found in the working directory under Projects");
+                MessageBox.Show("HTML Project Created Successfully, Projects can be found in the working directory");
             }
         }
         private void BH_Click(object sender, RoutedEventArgs e)
