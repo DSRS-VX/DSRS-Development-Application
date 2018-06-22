@@ -41,6 +41,8 @@ namespace DSRS_Development_Application
         }
         private void Python_Click(object sender, RoutedEventArgs e)
         {
+            UpdateF.Visibility = Visibility.Collapsed;
+            UpdateC.Visibility = Visibility.Collapsed;
             PProject.Visibility = Visibility.Collapsed;
             NProject.Visibility = Visibility.Collapsed;
             JProject.Visibility = Visibility.Collapsed;
@@ -84,6 +86,8 @@ namespace DSRS_Development_Application
 
         private void Java_Click(object sender, RoutedEventArgs e)
         {
+            UpdateF.Visibility = Visibility.Collapsed;
+            UpdateC.Visibility = Visibility.Collapsed;
             PProject.Visibility = Visibility.Collapsed;
             NProject.Visibility = Visibility.Collapsed;
             JProject.Visibility = Visibility.Collapsed;
@@ -124,6 +128,8 @@ namespace DSRS_Development_Application
         }
         private void HTML_Click(object sender, RoutedEventArgs e)
         {
+            UpdateF.Visibility = Visibility.Collapsed;
+            UpdateC.Visibility = Visibility.Collapsed;
             PProject.Visibility = Visibility.Collapsed;
             NProject.Visibility = Visibility.Collapsed;
             JProject.Visibility = Visibility.Collapsed;
