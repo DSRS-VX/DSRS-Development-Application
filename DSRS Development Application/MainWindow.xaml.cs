@@ -162,6 +162,22 @@ namespace DSRS_Development_Application
                 sw.WriteLine(IDE.Text);
             }
         }
+        private void Update_Click_Chrome(object sender, RoutedEventArgs e)
+        {
+            var url = "https://www.github.com/DSRS-VX/DSRS-Development-Application";
+            ProcessStartInfo startInfo = new ProcessStartInfo();
+            startInfo.FileName = "chrome";
+            startInfo.Arguments = url;
+            Process.Start(startInfo.FileName, startInfo.Arguments);
+        }
+        private void Update_Click_Firefox(object sender, RoutedEventArgs e)
+        {
+            var url = "https://www.github.com/DSRS-VX/DSRS-Development-Application";
+            ProcessStartInfo startInfo = new ProcessStartInfo();
+            startInfo.FileName = "firefox";
+            startInfo.Arguments = url;
+            Process.Start(startInfo.FileName, startInfo.Arguments);
+        }
     }
 }
 

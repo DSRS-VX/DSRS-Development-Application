@@ -11,6 +11,8 @@
             <TabItem Header="Workspace">
                 <StackPanel>
                     <Button x:Name="File" Margin="0,0,1270,675" RenderTransformOrigin="0.524,-1.65" Content="File" Click="File_Click"/>
+                    <Button x:Name="UpdateF" Margin="1075,-700,125,675" Click="Update_Click_Firefox" Content="Update via Firefox"/>
+                    <Button x:Name="UpdateC" Margin="1225,-700,0,675" Click="Update_Click_Chrome">Update via Chrome</Button>
                     <Button x:Name="BUILD" Margin="1000,-700,150,675" RenderTransformOrigin="0.524,-1.65" Content="Build" Click="BA_Click" Visibility="Collapsed"/>
                     <Button x:Name="BUILDJ" Margin="1000,-700,150,675" RenderTransformOrigin="0.524,-1.65" Content="Compile" Click="BJ_Click" Visibility="Collapsed"/>
                     <Button x:Name="BUILDJR" Margin="500,-700,550,675" RenderTransformOrigin="0.524,-1.65" Content="Run Program, Must use after compile" Click="JR_Click" Visibility="Collapsed"/>
@@ -25,7 +27,7 @@
                     <Button x:Name="HProject" Margin="80,-673,1175,675" RenderTransformOrigin="0.524,-1.65" Content="HTML Project" Click="HTML_Click" Visibility="Collapsed"/>
                     <Button x:Name="READONLY" Margin="1200,-700,0,675" RenderTransformOrigin="0.524,-1.65" Content="Readonly OFF/ON" Click="RD_Click" Visibility="Collapsed"/>
                     <TextBox x:Name="IDE" Height="700" Margin="90,-675,0,0" Background="#FF151515" Foreground="Red" IsReadOnly="True" ScrollViewer.CanContentScroll="True" VerticalScrollBarVisibility="Visible" SpellCheck.IsEnabled="True" AcceptsReturn="True">
-                        READONLY FIELD, PLEASE CREATE PROJECT AND CLICK THE READONLY OFF/ON BUTTON TO EDIT CODE                    
+                        READONLY FIELD, PLEASE CREATE A PROJECT AND CLICK THE READONLY OFF/ON BUTTON TO EDIT CODE
                     </TextBox>
                 </StackPanel>
             </TabItem>
