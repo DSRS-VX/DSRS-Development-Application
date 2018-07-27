@@ -18,9 +18,7 @@
                     <Button x:Name="BUILDJR" Margin="500,-700,550,675" RenderTransformOrigin="0.524,-1.65" Content="Run Program, Must use after compile" Click="JR_Click" Visibility="Collapsed"/>
                     <Button x:Name="BUILDH" Margin="900,-700,150,675" RenderTransformOrigin="0.524,-1.65" Content="Chrome - Run Index" Click="BH_Click" Visibility="Collapsed"/>
                     <Button x:Name="BUILDHF" Margin="300,-700,650,675" RenderTransformOrigin="0.524,-1.65" Content="Firefox - Run Index" Click="BHF_Click" Visibility="Collapsed"/>
-                    <Button x:Name="SAVE" Margin="800,-700,350,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVE_Click" Visibility="Collapsed"/>
-                    <Button x:Name="SAVEJ" Margin="800,-700,350,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVEJ_Click" Visibility="Collapsed"/>
-                    <Button x:Name="SAVEH" Margin="700,-700,450,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVEH_Click" Visibility="Collapsed"/>
+                    <Button x:Name="SAVE" Margin="80,-700,1200,675" RenderTransformOrigin="0.524,-1.65" Content="Save" Click="SAVE_Click" Visibility="Collapsed"/>
                     <Button x:Name="NProject" Margin="0,-675,1270,675" RenderTransformOrigin="0.524,-1.65" Content="New Project" Click="NProject_Click" Visibility="Collapsed"/>
                     <Button x:Name="PProject" Margin="80,-675,1175,675" RenderTransformOrigin="0.524,-1.65" Content="Python Project" Click="Python_Click" Visibility="Collapsed"/>
                     <Button x:Name="JProject" Margin="80,-674,1175,675" RenderTransformOrigin="0.524,-1.65" Content="Java Project" Click="Java_Click" Visibility="Collapsed"/>
